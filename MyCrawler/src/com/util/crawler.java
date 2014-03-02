@@ -55,9 +55,8 @@ public class crawler {
 		return str;
 	}
 	
-	public void saveURL(HashMap<String,Integer> hm){
-		
-	}
+	/*public void saveURL(HashMap<String,Integer> hm){
+	}*/
 	
 	public boolean getWebURL(){
 		if(urls.isEmpty())

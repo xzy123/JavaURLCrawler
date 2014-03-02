@@ -6,8 +6,4 @@
 		insert into urldata (url, deep)
 		values (#{url}, #{deep})
 	</insert>
-	<!-- <select id="listAllRelationship" resultType="Relationship">
-		select uid as uid, friend_id as fid
-		from relationship
-	</select> -->
 </mapper>
