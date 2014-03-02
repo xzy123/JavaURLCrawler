@@ -147,7 +147,7 @@ public class crawler {
 	
 	public static void main(String[] args){
 		crawler cra = new crawler();
-		cra.setHomePage("http://www.sohu.com/");
+		cra.setHomePage("http://www.baidu.com/");
 		
 		/*SqlSession session = DBUtil.getsession();
 		URLDao urldao = new URLDaoImpl(session);
